@@ -11,7 +11,7 @@ O primeiro projeto proposto pela Dio para prática do GitHub tem como objetivo a
 Foi proposto pelo instrutor que organizássimos nossos estudos utilizando este primeiro projeto. 
 Assim sendo, estou criando 3 pastas para compartilhar: 
 
-1. [Resumo de meus estudos anteriores, e links para certificados e linkedin]
+1. [Resumo de meus estudos anteriores, e links para certificados e linkedin](https://github.com/MadsenAMS/dio-desafio-github-primeiro-repositorio/tree/main/past)
 2. [Resumo do andamento dos estudos no Bootcamp MRV]
 3. [Lista de cursos e habilidades ainda pendentes de estudo]
 
