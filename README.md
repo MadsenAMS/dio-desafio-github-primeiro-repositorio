@@ -9,11 +9,10 @@ O primeiro projeto proposto pela Dio para prática do GitHub tem como objetivo a
 - :heavy_check_mark: Como 'Puxar' ou 'Empurrar' Ítens Comitados Do/Para o Repositório
 
 Foi proposto pelo instrutor que organizássimos nossos estudos utilizando este primeiro projeto. 
-Assim sendo, estou criando 3 pastas para compartilhar: 
+Assim sendo, estou criando 2 pastas para compartilhar: 
 
-1. [Resumo de meus estudos anteriores, e links para certificados e linkedin](https://github.com/MadsenAMS/dio-desafio-github-primeiro-repositorio/tree/main/past)
-2. [Resumo do andamento dos estudos no Bootcamp MRV]
-3. [Lista de cursos e habilidades ainda pendentes de estudo]
+1. [Resumo de meus estudos até, e links para certificados](https://github.com/MadsenAMS/dio-desafio-github-primeiro-repositorio/tree/main/past)
+2. [Lista de cursos e habilidades ainda pendentes de estudo](https://github.com/MadsenAMS/dio-desafio-github-primeiro-repositorio/tree/main/future)
 
 É isso!
 
